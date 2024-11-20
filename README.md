@@ -6,7 +6,7 @@
 3. How well do jobs and skills pay for Data Analysts?
 
 ## References
-[2_skill_demand.ipynb](3_Project\2_skill_demand.ipynb)
+[2_skill_demand.ipynb](C:\Users\xfan7\OneDrive\Desktop\python\project_data\3_Project\2_skill_demand.ipynb)
 
 ## Visualize data
 ![US job postings in percentage](images\output.png)
